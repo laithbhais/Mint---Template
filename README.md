@@ -1,5 +1,5 @@
-# kasper-
+# Mint
 
-Kasper Template redesign
+Mint Template redesign
 
 ![alt text](https://github.com/laithbhais/Mint---Template/blob/main/Mint-Template.png)
